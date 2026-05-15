@@ -23,8 +23,8 @@ export function AppShell({ children }: { children: ReactNode }) {
             ✚
           </div>
           <div>
-            <p className="text-xs font-semibold uppercase tracking-[0.24em] text-teal-700">ENV Team</p>
-            <h1 className="text-lg font-bold text-slate-950">Smart Utility</h1>
+            <p className="text-xs font-semibold uppercase tracking-[0.24em] text-teal-700">ทีมสิ่งแวดล้อม</p>
+            <h1 className="text-lg font-bold text-slate-950">รพ.บางคล้า</h1>
           </div>
         </div>
 
@@ -61,8 +61,8 @@ export function AppShell({ children }: { children: ReactNode }) {
         <header className="sticky top-0 z-10 border-b border-white/70 bg-white/80 px-5 py-4 backdrop-blur-xl lg:hidden">
           <div className="flex items-center justify-between">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-teal-700">ENV Team</p>
-              <h1 className="font-bold text-slate-950">Smart Utility Dashboard</h1>
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-teal-700">ทีมสิ่งแวดล้อม</p>
+              <h1 className="font-bold text-slate-950">รพ.บางคล้า</h1>
             </div>
             <span className="rounded-2xl bg-teal-700 px-3 py-2 text-white">✚</span>
           </div>
