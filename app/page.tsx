@@ -14,10 +14,10 @@ export default function DashboardPage() {
     <div className="space-y-8">
       <section className="executive-gradient overflow-hidden rounded-[2rem] p-8 text-white shadow-2xl shadow-teal-950/20">
         <div className="max-w-4xl">
-          <p className="text-sm font-bold uppercase tracking-[0.28em] text-teal-100">Hospital ENV Team</p>
-          <h1 className="mt-4 text-3xl font-black md:text-5xl">Smart Utility Dashboard</h1>
+          <p className="text-sm font-bold uppercase tracking-[0.28em] text-teal-100">ทีมสิ่งแวดล้อม โรงพยาบาลบางคล้า</p>
+          <h1 className="mt-4 text-3xl font-black md:text-5xl">ระบบติดตามการใช้ไฟฟ้า น้ำ และน้ำมัน</h1>
           <p className="mt-4 max-w-2xl text-base leading-8 text-teal-50">
-            ระบบติดตามข้อมูลไฟฟ้า น้ำ และเชื้อเพลิงรายเดือนสำหรับผู้บริหารโรงพยาบาล พร้อมโครงสร้างรองรับ SEC และ Carbon Footprint ในระยะถัดไป
+            ระบบบันทึกและแสดงผลข้อมูลการใช้ทรัพยากรของโรงพยาบาล เพื่อสนับสนุนการบริหารจัดการสิ่งแวดล้อมและพลังงานอย่างมีประสิทธิภาพ
           </p>
         </div>
       </section>

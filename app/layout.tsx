@@ -8,8 +8,8 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Smart Utility Dashboard | Hospital ENV",
-  description: "แดชบอร์ดบันทึกและวิเคราะห์ค่าไฟฟ้า ค่าน้ำ และค่าเชื้อเพลิงสำหรับทีม ENV โรงพยาบาล",
+  title: "ระบบติดตามทรัพยากร | ทีมสิ่งแวดล้อม รพ.บางคล้า",
+  description: "ระบบบันทึกและแสดงผลข้อมูลการใช้ทรัพยากรของโรงพยาบาล เพื่อสนับสนุนการบริหารจัดการสิ่งแวดล้อมและพลังงานอย่างมีประสิทธิภาพ",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
